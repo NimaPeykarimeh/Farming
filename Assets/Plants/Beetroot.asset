@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c2479bce9c95dc4e9a49b5753e48125, type: 3}
+  m_Name: Beetroot
+  m_EditorClassIdentifier: 
+  PlantStages:
+  - {fileID: 1258779052373952, guid: 741311cc36ce74e4c8bdeea51ad10665, type: 3}
+  - {fileID: 1512095424652320, guid: 8264ff67b81fb69418f4d7c116104a23, type: 3}
+  - {fileID: 1659519851599370, guid: 4dffc0019107a3f4db3aeb85961d9be7, type: 3}
+  PlantName: 0
+  StageDurations:
+  - 10
+  - 10
+  - 10
+  SellingPrice: 0
+  BuyingPrice: 0
